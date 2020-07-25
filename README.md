@@ -21,7 +21,7 @@ To Add image to DockerHub<br>
 <i>> docker push image_name <br>
 
 To Stop Container<br>
-<i>> docker stop CONTAINER_ID <br
+<i>> docker stop container_id <br
 
 To Remove Container <br>
 <i>> docker rm container_id <br>
